@@ -1,0 +1,7 @@
+---
+name: example-server
+
+dependencies: []
+
+files:
+- example-server/example-server_0.0.1

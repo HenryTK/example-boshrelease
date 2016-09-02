@@ -4,3 +4,4 @@ templates:
   example-server-ctl.erb: bin/example-server-ctl
 
 packages:
+- example-server

@@ -14,7 +14,7 @@ case $1 in
 
     cd /var/vcap/blobs/example-server
 
-    example-server >> $LOG_DIR/example-server.stdout.log \
+    example-server_0.0.1 >> $LOG_DIR/example-server.stdout.log \
       2>> $LOG_DIR/example-server.stderr.log
 
     ;;
