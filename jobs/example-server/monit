@@ -1,0 +1,5 @@
+check process example-server
+  with pidfile /var/vcap/sys/run/example-server/pid
+  start program "/var/vcap/jobs/example-server/bin/example-server-ctl start"
+  stop program "/var/vcap/jobs/example-server/bin/example-server-ctl stop"
+  group vcap
