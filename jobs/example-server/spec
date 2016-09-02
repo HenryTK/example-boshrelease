@@ -5,3 +5,5 @@ templates:
 
 packages:
 - example-server
+
+properties: {}
