@@ -1,0 +1,16 @@
+---
+packages:
+- name: example-server
+  version: beeadbbae328a4fb69020c464aa1ffa1324ed236
+  fingerprint: beeadbbae328a4fb69020c464aa1ffa1324ed236
+  sha1: abc6e2aa65f6a995d69a0b28801ac90738349f30
+  dependencies: []
+jobs:
+- name: example-server
+  version: b304a9c814fe091fc4f5992b1d98c7316f5c9f55
+  fingerprint: b304a9c814fe091fc4f5992b1d98c7316f5c9f55
+  sha1: 4cd476b82b93fbd076dde7c0ac50079731148dc8
+commit_hash: ef8e6613
+uncommitted_changes: true
+name: example-boshrelease
+version: '1'
