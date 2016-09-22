@@ -5,3 +5,4 @@ blobstore:
     bucket_name: dev-releases-state
     region: eu-west-1
     endpoint: https://s3-eu-west-1.amazonaws.com
+final_name: example
